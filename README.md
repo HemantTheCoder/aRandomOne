@@ -4,7 +4,7 @@ A Random One!
 _A Random One_ is a _Friends_ random episode generator which also includes Netflix links 
 for easy viewing. It was created to mimic the random order of re-runs on live television.
 
-Try it out at [aRandomOne.com](https://www.aRandomOne.com).
+Try it out at [Live App Website](https://stripe-impossible-duke.glitch.me/).
 
 
 Sources
